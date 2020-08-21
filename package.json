@@ -1,0 +1,29 @@
+{
+  "name": "grounded",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "mp3-duration": "^1.1.0",
+    "node-zip": "github:kyriosli/node-zip",
+    "xmldoc": "^1.1.2"
+  },
+  "description": "dueing goanimate wrapper (gaw) has dmca'd or patched but so heres that unpatched project of goanimate wrapper unpatchble (GAWU)\r ## Why That got patched\r becuause he dmca'd,m quickly goanimate wrapper got patched but so heres is          ▲\r **website (quickly vyond will never patch this forever**                            |\r https://goanimate-wrapper-unpatched.herokuapp.com/html/list.html\r                                 ▲                              \r                                 |\r \"# GoAnimate-Wrapper-Unpatchble\" \r \"# gagominecraft12\"",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagominecraft12/GoAnimate-Wrapper-Unpatchble-Master.git"
+  },
+  "keywords": [
+    "gago"
+  ],
+  "author": "gagominecraft12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagominecraft12/GoAnimate-Wrapper-Unpatchble-Master/issues"
+  },
+  "homepage": "https://github.com/gagominecraft12/GoAnimate-Wrapper-Unpatchble-Master#readme"
+}
